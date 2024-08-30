@@ -21,10 +21,10 @@ Reviews:
 link: https://www.kaggle.com/datasets/dgomonov/new-york-city-airbnb-open-data?select=AB_NYC_2019.csv 
 
 # Hypotheses:
-Hypothesis 1: Listings in Manhattan are generally more expensive than those in other neighborhoods.
-Hypothesis 2: Entire home/apt listings have higher prices than private or shared rooms.
-Hypothesis 3: Homes with the most/best reviews are more expensive. 
-Hypothesis 4: Prices are affected by length of stay. 
+- Hypothesis 1: Listings in Manhattan are generally more expensive than those in other neighborhoods.
+- Hypothesis 2: Entire home/apt listings have higher prices than private or shared rooms.
+- Hypothesis 3: Homes with the most/best reviews are more expensive. 
+- Hypothesis 4: Prices are affected by length of stay. 
 
 # Conclusions
 The project proved how data analysis support decision making, as one of our initial hypothesis was false.
